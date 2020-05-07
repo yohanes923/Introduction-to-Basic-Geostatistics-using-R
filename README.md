@@ -17,11 +17,12 @@ Untuk sistem operasi Linux dan MacOS bisa dilihat di https://cloud.r-project.org
 5. Membuka file "contoh geostat" yang ada pada folder tersebut. RStudio akan terbuka.
 
 6. Klik Code - Run Region - Run All (pastikan ketersediaan internet, karena akan ada proses download beberapa package R). Apabila muncul gambar peta disebelah kanan bawah, berarti Anda sudah melakukan tahapan-tahapannya dengan benar. Jika tidak silahkan cek file "contoh geostat", dan cari bagian 
-# set working directory
+\# set working directory
 setwd("C:/Introduction to Basic Geostatistics using R"). 
 Ubah alamat di dalam tanda petik ke alamat yang sesuai dengan keberadaan 3 file tadi. Lambang yang digunakan pada bagian alamat adalah forward slash / bukan backslash \.
 
-Salam hangat,
+Salam hangat
+
 Sangga
 
 ------------------
@@ -45,9 +46,10 @@ These steps need to be executed sequentially:
 5. Open the "contoh geostat" file in that folder and now you should be in RStudio.
 
 6. In RStudio, Click Code - Run Region - Run All (make sure the internet is available, because there will be processes for downloading several R packages). If a map appears on the lower right, it means you have done the steps correctly. If not, please find this line:
-# set working directory
+\# set working directory
 setwd ("C:/Introduction to Basic Geostatistics using R"). 
 Change the address in quotation marks to the address that corresponds to the presence of the 3 files earlier. The symbol used in the address is the forward slash / not the backslash \.
 
-Best regards,
+Best regards
+
 Sangga
